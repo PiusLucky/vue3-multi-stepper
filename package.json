@@ -1,7 +1,7 @@
 {
   "name": "vue3-multi-stepper",
   "description": "A simple vue3 multi-stepper component",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "private": false,
   "author": "Lucky Pius",
