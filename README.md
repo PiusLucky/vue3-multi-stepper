@@ -18,6 +18,11 @@
 
 You can try a live demo [here](https://piuslucky.github.io/vue3-multi-stepper/)
 
+<video width="640" height="360" controls>
+  <source src="https://res.cloudinary.com/daniel-goff/video/upload/v1688824261/vue3-stepper_lzkdyu.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Key Features
 
 - Keep track of current step
@@ -228,6 +233,9 @@ This software uses the following open source packages:
   font-weight: bold !important;
 }
 ```
+
+## Credits
+<b>Laximas</b>. Creator of Steppy which I built upon. https://github.com/Laximas/vue3-steppy
 
 ## Support
 
