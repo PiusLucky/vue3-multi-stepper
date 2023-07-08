@@ -19,7 +19,6 @@ export default defineConfig({
       fileName: "vue3-multi-stepper",
     },
     rollupOptions: {
-      input: "src/main.js",
       external: ["vue"],
       output: {
         globals: {
@@ -29,4 +28,3 @@ export default defineConfig({
     },
   },
 });
-
