@@ -18,10 +18,10 @@
 
 You can try a live demo [here](https://piuslucky.github.io/vue3-multi-stepper/)
 
-<video width="640" height="360" controls>
-  <source src="https://res.cloudinary.com/daniel-goff/video/upload/v1688824261/vue3-stepper_lzkdyu.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/PiusLucky/vue3-multi-stepper/assets/32282934/5277cd30-390b-45df-b14d-fd73cb598dae
+
+
 
 ## Key Features
 
