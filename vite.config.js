@@ -11,20 +11,4 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url).href),
     },
   },
-  // build: {
-  //   lib: {
-  //     entry: resolve(__dirname, "lib/main.js"),
-  //     name: "vue3-multi-stepper",
-  //     fileName: "vue3-multi-stepper",
-  //   },
-  //   rollupOptions: {
-  //     input: 'src/main.js',
-  //     external: ["vue"],
-  //     output: {
-  //       globals: {
-  //         vue: "Vue",
-  //       },
-  //     },
-  //   },
-  // },
 });
