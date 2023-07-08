@@ -16,12 +16,13 @@
 
 ## Demo
 
-You can try a live demo [here](https://laximas.github.io/vue3-multi-stepper/)
+You can try a live demo [here](https://piuslucky.github.io/vue3-multi-stepper/)
 
 ## Key Features
 
 - Keep track of current step
 - Change step content
+- Step Validation using the validateStep function
 - Configure finalization
 - Show loading spinner
 - Customizable
@@ -190,7 +191,8 @@ This software uses the following open source packages:
 - [gh-pages](https://www.npmjs.com/package/gh-pages)
 - [CssInjectedByJs](https://www.npmjs.com/package/vite-plugin-css-injected-by-js)
 
-#### Customizable CSS classes
+
+#### Customizable CSS classes (Optional)
 
 ```css
 .steppy-item-counter {
