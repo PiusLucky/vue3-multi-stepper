@@ -63,8 +63,8 @@ Template & Script
   <template #1><!-- Step 1 Content --></template>
   <template #2><!-- Step 2 Content --></template>
   <template #3><!-- Step 3 Content --></template>
-  <template #3><!-- Step 4 Content --></template>
-  <template #3><!-- Step 5 Content --></template>
+  <template #4><!-- Step 4 Content --></template>
+  <template #5><!-- Step 5 Content --></template>
 </Vue3MultiStepper>
 ```
 
