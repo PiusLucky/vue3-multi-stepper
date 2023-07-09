@@ -4,7 +4,7 @@ import vue from "@vitejs/plugin-vue";
 import cssInjectedByJsPlugin from "vite-plugin-css-injected-by-js";
 
 export default defineConfig({
-  base: "",
+  base: "/vue3-multi-stepper/",
   plugins: [vue(), cssInjectedByJsPlugin()],
   resolve: {
     alias: {

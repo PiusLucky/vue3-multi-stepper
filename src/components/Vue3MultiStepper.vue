@@ -192,7 +192,7 @@ body {
 }
 
 .wrapper-steppy {
-  padding: 60px;
+  padding: 1rem;
 }
 
 .steppy {
